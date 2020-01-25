@@ -1,6 +1,6 @@
 const express = require("express");
-const apiRoutes = require("../Note-Taker-two/routes/apiRoutes");
-const htmlRoutes = require("../Note-Taker-two/routes/htmlRoutes");
+const apiRoutes = require("./routes/apiRoutes");
+const htmlRoutes = require("./routes/htmlRoutes");
 
 // Initialize the app and create a port
 // ==============================================================================
